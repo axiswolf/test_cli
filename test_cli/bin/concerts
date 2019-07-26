@@ -1,3 +1,8 @@
+# load interpreter
 #!/usr/bin/env ruby 
+# require "bundler/setup"
+# Load main library 
+require './lib/concerts'
+
 
 Concerts::CLI.new.call

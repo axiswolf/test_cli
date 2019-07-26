@@ -13,3 +13,8 @@ lists (all) concerts a certain week
 
 - command-line interface 
 user will type concerts near los angeles
+
+
+Concert
+-> Location
+-> Time

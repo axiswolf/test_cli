@@ -1,3 +1,3 @@
-module TestCli
+module Concerts
   VERSION = "0.1.0"
 end
