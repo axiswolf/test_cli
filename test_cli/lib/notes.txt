@@ -1,0 +1,15 @@
+cli works
+lists (all) concerts a certain week
+> sorts and lists concerts by genre
+
+1. Plan your gem, imagine the interface
+2. Start with the program structure - google
+3. Start with the entry point - the file run
+4. Force that to build the CLI interface
+5. Stub out the interface
+6. Start making things real
+7. Discover Objects
+8. Program
+
+- command-line interface 
+user will type concerts near los angeles
